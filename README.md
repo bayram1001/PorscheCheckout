@@ -37,3 +37,4 @@ libraries. Push the code to GitHub.
   Porsche Ceramic Composite Brakes (PCCB)
 * Verify that total price is the sum of base price + Price for Equipment + Delivery,
   Processing and Handling Fee
+* DOWNLOAD the requirements at : https://github.com/bbinbir/PorscheCheckout/blob/master/src/test/resources/Porsche.pdf
