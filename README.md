@@ -4,6 +4,13 @@ TOOLS USED:
 * Selenium WebDriver,
 * Maven Dependencies,
 * TestNG.
+* Git, 
+* Agile Methodology, 
+* Eclipse, 
+* GitHub, 
+* Chrome, Firefox, IE,
+* Pom Xml.
+
 
 GOALS:
 
