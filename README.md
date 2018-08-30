@@ -1,4 +1,9 @@
 # PorscheCheckout
+TOOLS USED:
+* Java,
+* Selenium WebDriver,
+* Maven Dependencies,
+* TestNG.
 
 GOALS:
 
