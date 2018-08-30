@@ -1,16 +1,4 @@
 # PorscheCheckout
-TOOLS USED:
-* Java,
-* Selenium WebDriver,
-* Maven Dependencies,
-* TestNG.
-* Git, 
-* Agile Methodology, 
-* Eclipse, 
-* GitHub, 
-* Chrome, Firefox, IE,
-* Pom Xml.
-
 
 GOALS:
 
@@ -50,3 +38,16 @@ libraries. Push the code to GitHub.
 * Verify that total price is the sum of base price + Price for Equipment + Delivery,
   Processing and Handling Fee
 * DOWNLOAD the requirements at : https://github.com/bbinbir/PorscheCheckout/blob/master/src/test/resources/Porsche.pdf
+
+TOOLS USED:
+* Java,
+* Selenium WebDriver,
+* Maven Dependencies,
+* TestNG.
+* Git, 
+* Agile Methodology, 
+* Eclipse, 
+* GitHub, 
+* Chrome, Firefox, IE,
+* Pom Xml.
+
